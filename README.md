@@ -9,8 +9,8 @@
   <img src="https://github.com/SamuelWindebank/SamuelWindebank.github.io/blob/main/20220401_230624.jpg">
   
   <p>Link to the picture of ginger cat</p>
-  <a href="https://www.meowingtons.com/blogs/lolcats/6-fun-facts-about-orange-tabby-cats"</a>
-  <p>image upload of that same picture from web url</p>
-  <img src="https://www.meowingtons.com/blogs/lolcats/6-fun-facts-about-orange-tabby-cats>
+    <a href="https://www.meowingtons.com/blogs/lolcats/6-fun-facts-about-orange-tabby-cats">Link to the picture of ginger cat</a>
+ 
+ 
 
             </main>
