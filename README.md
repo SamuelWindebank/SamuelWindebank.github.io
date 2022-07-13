@@ -1,7 +1,7 @@
 <html>
 
 <h1>hello world, Sam is learning here</h1>
-  <p>I really have no idea what im doing!
+  <p>I really have no idea what im doing!;
     <a href="https://www.youtube.com/watch?v=NQP89ish9t8">link to youtube video on setting up a website</a></p>;
     
   <p>How on earth do I add my image in here</p>
