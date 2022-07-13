@@ -7,4 +7,3 @@
   <p>How on earth do I add my image in here</p>
     <img src="C:/Users/samue/Downloads/20220401_230624.jpg">
   
-</html>
