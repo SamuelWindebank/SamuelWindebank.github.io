@@ -5,6 +5,6 @@
     <a href="https://www.youtube.com/watch?v=NQP89ish9t8">link to youtube video on setting up a website<a/>
     
   <p>How on earth do I add my image in here</p>
-    <img="C:\Users\samue\Downloads\20220401_230624.jpg">
+    <img src="C:/Users/samue/Downloads/20220401_230624.jpg">
   
 </html>
