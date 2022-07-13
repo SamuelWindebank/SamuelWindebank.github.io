@@ -7,7 +7,10 @@
   
   <img src="https://github.com/SamuelWindebank/SamuelWindebank.github.io/blob/main/20220401_230624.jpg">
   
+  <p>
   <a href="https://www.meowingtons.com/blogs/lolcats/6-fun-facts-about-orange-tabby-cats"</a>
-     
+  </p>
+  <p>
   <img src="https://www.meowingtons.com/blogs/lolcats/6-fun-facts-about-orange-tabby-cats>
+            </p>
             </main>
