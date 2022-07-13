@@ -6,5 +6,5 @@
     
   <p>How on earth do I add my image in here</p>
   
-  <img src="[C:/Users/samue/Downloads/20220401_230624.jpg](https://github.com/SamuelWindebank/SamuelWindebank.github.io/blob/main/20220401_230624.jpg)">
+  <img src="https://github.com/SamuelWindebank/SamuelWindebank.github.io/blob/main/20220401_230624.jpg">
   
